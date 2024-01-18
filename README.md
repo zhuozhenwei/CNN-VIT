@@ -5,7 +5,7 @@ Python 3.10.8, Pytorch 2.1.2, Cuda11.8
 
 # 数据集下载
 
-CIFAR10 https://www.cs.toronto.edu/~kriz/cifar.html
+**CIFAR10** https://www.cs.toronto.edu/~kriz/cifar.html
 
 # 运行方式
 
